@@ -1,0 +1,777 @@
+[0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+
+1.1.19
+
+TypeScript version used by Compodoc : 4.5.5
+
+TypeScript version of current project : 4.6.2
+
+Node.js version : v14.17.6
+
+Operating system : Windows 10
+
+[22:29:58] No configuration file found, switching to CLI flags.
+[22:29:58] Using tsconfig file : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\tsconfig.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.browserslistrc
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.editorconfig
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.gitignore
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\angular.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\documentation.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\jest.config.js
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\build-storybook.log
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\LICENSE
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\package-lock.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\package.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\README.md
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\tsconfig.app.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\tsconfig.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\tsconfig.spec.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.storybook\main.js
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.storybook\tsconfig.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.storybook\preview.js
+[22:29:58] Ignoring       : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.storybook\typings.d.ts
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\jest-config\setup.ts
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\favicon.ico
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\index.html
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\main.ts
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\polyfills.ts
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\styles.css
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\jest-config\__mocks__\styleMock.js
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\jest-config\__mocks__\globalMocks.ts
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\jest-config\__mocks__\fileMock.js
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\app.component.css
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\app.component.html
+[22:29:58] Ignoring       : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\app.component.spec.ts
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\app.component.ts
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\app.module.ts
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\task-list.stories.ts
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\.gitkeep
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\environments\environment.prod.ts
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\environments\environment.ts
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\button.component.ts
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\button.css
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\Button.stories.ts
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\header.component.ts
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\header.css
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\Header.stories.ts
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\Introduction.stories.mdx
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\page.component.ts
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\page.css
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\Page.stories.ts
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\User.ts
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\components\inbox-screen.component.ts
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\components\pure-inbox-screen.component.ts
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\components\pure-inbox-screen.stories.ts
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\components\pure-task-list.component.ts
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\components\pure-task-list.stories.ts
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\components\task-list.component.ts
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\components\task-list.stories.ts
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\components\task.component.ts
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\components\task.module.ts
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\components\task.stories.ts
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\models\task.model.ts
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\state\task.state.ts
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\font\OpenSans-Light-webfont.eot
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\font\OpenSans-Light-webfont.svg
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\font\OpenSans-Light-webfont.ttf
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\font\OpenSans-Light-webfont.woff
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\font\OpenSans-Regular-webfont.eot
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\font\OpenSans-Regular-webfont.svg
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\font\OpenSans-Regular-webfont.ttf
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\font\OpenSans-Regular-webfont.woff
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\icon\percolate.eot
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\icon\percolate.svg
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\icon\percolate.ttf
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\icon\percolate.woff
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\assets\code-brackets.svg
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\assets\colors.svg
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\assets\comments.svg
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\assets\direction.svg
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\assets\flow.svg
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\assets\plugin.svg
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\assets\stackalt.svg
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\assets\repo.svg
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\028d8007a3482a0ee427706fd3922afb.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\04c9d588e8ba07723cb02160b68c32de.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\101a43b91bf1994f773f633c1215fafc.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\1331c4f538eb441b9cf87b6f3cfa1b43.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\165109fc276cd5d6fb3e8ffd3b91df00.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\0e79df649ed62d8b66ca7f240f178d86.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\19b8968714472db3ecfa5b278a9a7313.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\181a67dc6d63a1badc63f8e69c93084c.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\1a9c29f67d464f5cb838b2e773e8a519.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\1907d43a7e6385e4b50280153edf233b.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\1b1f12b695fc699144a5d34eaf040277.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\1f25ae6116840c59f94bbaa01ec6fa8b.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\205dfaa1280e6555f6c33fa56dde68d8.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\2009453086fcce06834da9d86c814afa.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\21f0798230182c1bec86efc5820ec5a1.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\23980a66a9b9abad778b653b538b2070.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\276cf96f9a69a2d85affa7a98a1ff975.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\27ac883cef680554117b6172ee805c9a.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\2508c8566bce87586c778a802bef4335.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\2c84961de5de0a8abd9a5221e5072a78.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\2e08465e140e06a499920bdf1d6b03ef.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\28c99b7581217639112cb929331d7d9e.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\32c4bf9f7577c2190413f7b147766ba1.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\348e6fcfd25aa66786348c1c1f9ead24.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\362940527f279ba977204e4630790036.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\4226484a7cdaf5dd968e9a76aee48394.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\3791be8e2e18e3a06f966b0a435ad29c.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\3ff146c3bbbdbe8ba93901979897ef5a.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\4622a02625d6d0c5110e19406d64cc46.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\45054e57c79d211171ab25f83f90e57f.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\463e14ef5c6e247952fcf9fc274ae572.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\488f88e8eeb49694848d0c22d8e0203a.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\493ccebd24d4853db93144e024b35240.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\46a8b35ef9fb7e704e9b7739677088c2.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\4a735a77f637c4af38dfc4cec21f82a9.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\4fccd1431c487508bc3f4548bf112e55.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\4f05ac79942f2f1cfc6922dea5bf753c.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\511d1fb14e826e95394cac04ab1de23c.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\501ee73cb40b85bbc6c567057bf1b55d.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\5acb9e362e91e68c965289b320f19f56.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\56c318e98c6ed577fd73bf92899adc2d.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\5a803c5b01256929c6d866b720a99bb9.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\616ba53bf0406d938e07cf2b075fef67.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\69cf918be1f6403f81db9f71a7bbb539.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6a06c679f5f95123803a323275ba4386.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6bc0ec8efca172f61f2b0edf725e8520.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6ce7054148a52ade4943b3d117f37007.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6df9139a8d88e0c2ce7465744557defd.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6eb14db315cfa7656a14272d55f66342.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6ec42ce76f59ad22d1a7642652d97631.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\772f08be73629744227d3bd701c8fe27.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\77b25bd4c5df27d07b938f45b8bdf274.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\7828a66b6df043afd04c7665ad4b47c0.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\85f5324981f853b68c1ef7afdfd6a6ac.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\9074c206637d4fe224a75d0453aecdcc.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\927304f3ac5e97b9ee84538477ed07cf.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\94f9b1911409847194ff2c2962fee8cd.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\9f74c0c1a8c8b6c8cbbd3b8fb03d3ee3.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a2436bcc6b545d3570a19511153ebd0e.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\9deb1517e55de0767ceabbaaa868b1ab.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a27c97f739650350ce29acc325d3ec7f.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a2c16cfab7dbe370aa44518d78b0ff0d.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a5bc82354036b3af1b86d20b5460f739.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a80b2918c2e13f518c184cfe6812980b.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\aa86f39bd610371a7767cb0857fabd0e.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\aafed35ef6ecd42f7662d0faf65cf75d.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\ac71ddd733b2a41f784998ea1ea7fdb1.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\ad18f01cc804d4b97e2d5faa627d5458.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\aee21000e6031633fe5421b527828019.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\b3cac49a899fb8dc19aa21f0607e65a4.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\b8259211f9d9427f122d4ef388ad242e.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\b860469f3830115faf2718df87a96ae4.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\bb6376f0d21d4c92472e4f38c9dc1f93.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\bbb51f849a95b2307d619c8fac71db4c.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\bdfdec20de9748ea778915e1ebfde5a1.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\c2edab0d010163de7933b86256ae0621.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\c3fe4930b0aaa4a902ad660a570c9469.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\bf8787d4048ea4fdc2d4c2248a5f13fa.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\c82eefbb94b6f30f19e8659a1e0f8e7a.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\c8ac074b86853c1adea191ee71ef16e9.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\ce621820692a42580d2a0d7c70e3ed7a.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\caea90e023efcc3d3274a2330613e4ba.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\d487e9a9a82de6a356dac824a6c292b8.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\d76eb7ebc2b8151cde5b877f32d5c1aa.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\d06c0e18ac4f368b2cde446d1cbc17ec.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\db2ab6abb162ed489cd0927221601285.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\db6accb097e6fe50543d052caccc5632.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\dbc0edf3c16f5f9696f25da9bdf9c5f4.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\de34b07869c6d2ba36c0b8c872ab1038.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\e5826f47f5b7085a078bfe290d0d87cc.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\e5efee4b74e4fe6455c5ab1b8dda715f.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\e06ed3cbc5e0a74829fb216eeb24524c.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\f6f0c7e969382e39d3a73f4e477d969b.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\fc490acff79513322cab74b19b6b2f8b.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\eb8a5734cf0d4f98fb8f3bfcab83683e.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\fcc56884ced6490acb0dfec8a471f9f2.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\feead938cc261cafb97d43cfcc29b9c5.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\26f0cb0266351056aac8355b40a63e91.json
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\angular-webpack\5408040597ab15813650f62e791115287ec9bcf8\0.pack
+[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\angular-webpack\5408040597ab15813650f62e791115287ec9bcf8\index.pack
+[22:29:58] Searching package.json file
+[22:29:58] package.json file found
+[22:29:58] Processing package.json dependencies
+[22:29:58] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
+[22:29:58] README.md file found
+[22:29:58] Error during C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\CHANGELOG read
+[22:29:58] Continuing without CHANGELOG.md file
+[22:29:58] Error during C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\CONTRIBUTING read
+[22:29:58] Continuing without CONTRIBUTING.md file
+[22:29:58] LICENSE.md file found
+[22:29:58] Error during C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\TODO read
+[22:29:58] Continuing without TODO.md file
+[22:29:58] Get dependencies data
+[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/jest-config/setup.ts
+[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/main.ts
+[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/polyfills.ts
+[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/jest-config/__mocks__/globalMocks.ts
+[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/app.component.ts
+[22:29:58] found          : AppComponent
+[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/app.module.ts
+[22:29:58] found          : AppModule
+[22:29:58]                : - imports:
+[22:29:58]                : 	- BrowserModule
+[22:29:58]                : 	- TaskModule
+[22:29:58]                : 	- NgxsModule
+[22:29:58]                : 	- NgxsReduxDevtoolsPluginModule
+[22:29:58]                : 	- NgxsLoggerPluginModule
+[22:29:58]                : - declarations:
+[22:29:58]                : 	- AppComponent
+[22:29:58]                : 	- InboxScreenComponent
+[22:29:58]                : 	- PureInboxScreenComponent
+[22:29:58]                : - bootstrap:
+[22:29:58]                : 	- AppComponent
+[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/task-list.stories.ts
+[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/environments/environment.prod.ts
+[22:29:58] found          : environment
+[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/environments/environment.ts
+[22:29:58] found          : environment
+[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/stories/button.component.ts
+[22:29:58] found          : ButtonComponent
+[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/stories/Button.stories.ts
+[22:29:58] found          : Template
+[22:29:58] found          : Primary
+[22:29:58] found          : Secondary
+[22:29:58] found          : Large
+[22:29:58] found          : Small
+[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/stories/header.component.ts
+[22:29:58] found          : HeaderComponent
+[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/stories/Header.stories.ts
+[22:29:58] found          : Template
+[22:29:58] found          : LoggedIn
+[22:29:58] found          : LoggedOut
+[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/stories/page.component.ts
+[22:29:58] found          : PageComponent
+[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/stories/Page.stories.ts
+[22:29:58] found          : Template
+[22:29:58] found          : LoggedOut
+[22:29:58] found          : LoggedIn
+[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/stories/User.ts
+[22:29:58] found          : User
+[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/components/inbox-screen.component.ts
+[22:29:58] found          : InboxScreenComponent
+[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/components/pure-inbox-screen.component.ts
+[22:29:58] found          : PureInboxScreenComponent
+[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/components/pure-inbox-screen.stories.ts
+[22:29:58] found          : Template
+[22:29:58] found          : Default
+[22:29:58] found          : Error
+[22:29:58] found          : WithInteractions
+[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/components/pure-task-list.component.ts
+[22:29:58] found          : PureTaskListComponent
+[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/components/pure-task-list.stories.ts
+[22:29:58] found          : Template
+[22:29:58] found          : Default
+[22:29:58] found          : WithPinnedTasks
+[22:29:58] found          : Loading
+[22:29:58] found          : Empty
+[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/components/task-list.component.ts
+[22:29:58] found          : TaskListComponent
+[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/components/task-list.stories.ts
+[22:29:58] found          : Template
+[22:29:58] found          : Default
+[22:29:58] found          : WithPinnedTasks
+[22:29:58] found          : Loading
+[22:29:58] found          : Empty
+[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/components/task.component.ts
+[22:29:58] found          : TaskComponent
+[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/components/task.module.ts
+[22:29:58] found          : TaskModule
+[22:29:58]                : - imports:
+[22:29:58]                : 	- CommonModule
+[22:29:58]                : 	- NgxsModule
+[22:29:58]                : - exports:
+[22:29:58]                : 	- TaskComponent
+[22:29:58]                : 	- TaskListComponent
+[22:29:58]                : - declarations:
+[22:29:58]                : 	- TaskComponent
+[22:29:58]                : 	- TaskListComponent
+[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/components/task.stories.ts
+[22:29:58] found          : actionsData
+[22:29:58] found          : Template
+[22:29:58] found          : Default
+[22:29:58] found          : Pinned
+[22:29:58] found          : Archived
+[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/models/task.model.ts
+[22:29:58] found          : Task
+[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/state/task.state.ts
+[22:29:58] found          : actions
+[22:29:58] found          : ArchiveTask
+[22:29:58] found          : PinTask
+[22:29:58] found          : AppError
+[22:29:58] found          : defaultTasks
+[22:29:58] found          : TaskStateModel
+[22:29:58] found          : TasksState
+[22:29:58] -------------------
+[22:29:58] Project statistics 
+[22:29:58] - files      : 177
+[22:29:58] - module     : 2
+[22:29:58] - component  : 9
+[22:29:58] - injectable : 1
+[22:29:58] - class      : 3
+[22:29:58] - interface  : 3
+[22:29:58] -------------------
+[22:29:58] Prepare components
+[22:29:58]  ButtonComponent has styleUrls, include them
+[22:29:58]  HeaderComponent has styleUrls, include them
+[22:29:58]  PageComponent has styleUrls, include them
+[22:29:58] Prepare modules
+[22:29:58] Prepare injectables
+[22:29:58] Prepare classes
+[22:29:58] Prepare interfaces
+[22:29:58] Prepare miscellaneous
+[22:29:58] Process documentation coverage report
+[22:29:58] Generating documentation in export format json
+[22:29:58] Documentation generated in ./ in 0.721 seconds
+info @storybook/angular v6.5.7
+info 
+info => Cleaning outputDir: C:\Users\quint\AppData\Local\Temp\chromatic--7496-vRU9NtCbrIpA
+info => Loading presets
+info => Compiling manager..
+info => Compiling preview..
+info Addon-docs: using MDX1
+info => Using implicit CSS loaders
+info => Loading angular-cli config for angular >= 13.0.0
+info => Using angular project with "tsConfig:C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.storybook\tsconfig.json"
+WARN Your Storybook startup uses a solution that will not be supported in version 7.0. 
+WARN You must use angular builder to have an explicit configuration on the project used in angular.json
+WARN Read more at:
+WARN - https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#sb-angular-builder)
+WARN - https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#angular13)
+info => Using angular project "taskbox:build" for configuring Storybook
+info => Using default Webpack5 setup
+<s> [webpack.Progress] 0% 
+
+<s> [webpack.Progress] 1% setup before run
+<s> [webpack.Progress] 1% setup before run NodeEnvironmentPlugin
+<s> [webpack.Progress] 1% setup before run
+<s> [webpack.Progress] 2% setup run
+<s> [webpack.Progress] 2% setup run
+<s> [webpack.Progress] 4% setup normal module factory
+<s> [webpack.Progress] 4% setup normal module factory CaseSensitivePathsPlugin
+<s> [webpack.Progress] 4% setup normal module factory
+<s> [webpack.Progress] 5% setup context module factory
+<s> [webpack.Progress] 5% setup context module factory
+<s> [webpack.Progress] 6% setup before compile
+<s> [webpack.Progress] 6% setup before compile angular-compiler
+<s> [webpack.Progress] 6% setup before compile ProgressPlugin
+<s> [webpack.Progress] 6% setup before compile
+<s> [webpack.Progress] 7% setup compile
+<s> [webpack.Progress] 7% setup compile ExternalsPlugin
+<s> [webpack.Progress] 7% setup compile
+<s> [webpack.Progress] 8% setup compilation
+<s> [webpack.Progress] 8% setup compilation CopyPlugin
+<s> [webpack.Progress] 8% setup compilation angular-compiler
+<s> [webpack.Progress] 8% setup compilation mini-css-extract-plugin
+<s> [webpack.Progress] 8% setup compilation ArrayPushCallbackChunkFormatPlugin
+<s> [webpack.Progress] 8% setup compilation JsonpChunkLoadingPlugin
+<s> [webpack.Progress] 8% setup compilation StartupChunkDependenciesPlugin
+<s> [webpack.Progress] 8% setup compilation ImportScriptsChunkLoadingPlugin
+<s> [webpack.Progress] 8% setup compilation FetchCompileWasmPlugin
+<s> [webpack.Progress] 8% setup compilation FetchCompileAsyncWasmPlugin
+<s> [webpack.Progress] 8% setup compilation WorkerPlugin
+<s> [webpack.Progress] 8% setup compilation SplitChunksPlugin
+<s> [webpack.Progress] 8% setup compilation RuntimeChunkPlugin
+<s> [webpack.Progress] 8% setup compilation ResolverCachePlugin
+<s> [webpack.Progress] 8% setup compilation HtmlWebpackPlugin
+<s> [webpack.Progress] 8% setup compilation
+<s> [webpack.Progress] 9% setup compilation
+<s> [webpack.Progress] 9% setup compilation named-chunks-plugin
+<s> [webpack.Progress] 9% setup compilation DedupeModuleResolvePlugin
+<s> [webpack.Progress] 9% setup compilation AnyComponentStyleBudgetChecker
+<s> [webpack.Progress] 9% setup compilation mini-css-extract-plugin
+<s> [webpack.Progress] 9% setup compilation SuppressExtractedTextChunks
+<s> [webpack.Progress] 9% setup compilation DefinePlugin
+<s> [webpack.Progress] 9% setup compilation ProvidePlugin
+<s> [webpack.Progress] 9% setup compilation ProgressPlugin
+<s> [webpack.Progress] 9% setup compilation ChunkPrefetchPreloadPlugin
+<s> [webpack.Progress] 9% setup compilation SourceMapDevToolPlugin
+<s> [webpack.Progress] 9% setup compilation JavascriptModulesPlugin
+<s> [webpack.Progress] 9% setup compilation JsonModulesPlugin
+<s> [webpack.Progress] 9% setup compilation AssetModulesPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation RuntimePlugin
+<s> [webpack.Progress] 9% setup compilation InferAsyncModulesPlugin
+<s> [webpack.Progress] 9% setup compilation DataUriPlugin
+<s> [webpack.Progress] 9% setup compilation FileUriPlugin
+<s> [webpack.Progress] 9% setup compilation CompatibilityPlugin
+<s> [webpack.Progress] 9% setup compilation HarmonyModulesPlugin
+<s> [webpack.Progress] 9% setup compilation AMDPlugin
+<s> [webpack.Progress] 9% setup compilation RequireJsStuffPlugin
+<s> [webpack.Progress] 9% setup compilation CommonJsPlugin
+<s> [webpack.Progress] 9% setup compilation LoaderPlugin
+<s> [webpack.Progress] 9% setup compilation LoaderPlugin
+<s> [webpack.Progress] 9% setup compilation NodeStuffPlugin
+<s> [webpack.Progress] 9% setup compilation APIPlugin
+<s> [webpack.Progress] 9% setup compilation ExportsInfoApiPlugin
+<s> [webpack.Progress] 9% setup compilation WebpackIsIncludedPlugin
+<s> [webpack.Progress] 9% setup compilation ConstPlugin
+<s> [webpack.Progress] 9% setup compilation UseStrictPlugin
+<s> [webpack.Progress] 9% setup compilation RequireIncludePlugin
+<s> [webpack.Progress] 9% setup compilation RequireEnsurePlugin
+<s> [webpack.Progress] 9% setup compilation RequireContextPlugin
+<s> [webpack.Progress] 9% setup compilation ImportPlugin
+<s> [webpack.Progress] 9% setup compilation RequireContextPlugin
+<s> [webpack.Progress] 9% setup compilation SystemPlugin
+<s> [webpack.Progress] 9% setup compilation ImportMetaPlugin
+<s> [webpack.Progress] 9% setup compilation URLPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsFactoryPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsPresetPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsPrinterPlugin
+<s> [webpack.Progress] 9% setup compilation JavascriptMetaInfoPlugin
+<s> [webpack.Progress] 9% setup compilation EnsureChunkConditionsPlugin
+<s> [webpack.Progress] 9% setup compilation RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 9% setup compilation MergeDuplicateChunksPlugin
+<s> [webpack.Progress] 9% setup compilation FlagIncludedChunksPlugin
+<s> [webpack.Progress] 9% setup compilation SideEffectsFlagPlugin
+<s> [webpack.Progress] 9% setup compilation FlagDependencyExportsPlugin
+<s> [webpack.Progress] 9% setup compilation FlagDependencyUsagePlugin
+<s> [webpack.Progress] 9% setup compilation InnerGraphPlugin
+<s> [webpack.Progress] 9% setup compilation MangleExportsPlugin
+<s> [webpack.Progress] 9% setup compilation ModuleConcatenationPlugin
+<s> [webpack.Progress] 9% setup compilation NoEmitOnErrorsPlugin
+<s> [webpack.Progress] 9% setup compilation RealContentHashPlugin
+<s> [webpack.Progress] 9% setup compilation WasmFinalizeExportsPlugin
+<s> [webpack.Progress] 9% setup compilation NamedModuleIdsPlugin
+<s> [webpack.Progress] 9% setup compilation DeterministicChunkIdsPlugin
+<s> [webpack.Progress] 9% setup compilation DefinePlugin
+<s> [webpack.Progress] 9% setup compilation TerserPlugin
+<s> [webpack.Progress] 9% setup compilation TemplatedPathPlugin
+<s> [webpack.Progress] 9% setup compilation RecordIdsPlugin
+<s> [webpack.Progress] 9% setup compilation WarnCaseSensitiveModulesPlugin
+<s> [webpack.Progress] 9% setup compilation IgnoreWarningsPlugin
+<s> [webpack.Progress] 9% setup compilation
+<s> [webpack.Progress] 10% building
+<s> [webpack.Progress] 10% building 0/1 entries 0/0 dependencies 0/0 modules
+<s> [webpack.Progress] 10% building 0/18 entries 2/18 dependencies 0/1 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/mini-css-extract-plugin/dist/loader.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/css-loader/dist/cjs.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/postcss-loader/dist/cjs.js
+<s> [webpack.Progress] 10% building 0/18 entries 2/27 dependencies 0/2 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/@angular-devkit/build-angular/src/babel/webpack-loader.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/babel-loader/lib/index.js
+<s> [webpack.Progress] 10% building 0/18 entries 15/28 dependencies 0/15 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/@ngtools/webpack/src/ivy/index.js
+<s> [webpack.Progress] 10% building 0/18 entries 15/28 dependencies 0/15 modules
+<s> [webpack.Progress] 10% building 0/18 entries 20/28 dependencies 0/19 modules
+<s> [webpack.Progress] 10% building 0/18 entries 62/100 dependencies 0/35 modules
+<s> [webpack.Progress] 10% building 0/18 entries 153/218 dependencies 8/72 modules
+<s> [webpack.Progress] 13% building 1/18 entries 153/218 dependencies 9/72 modules
+<s> [webpack.Progress] 13% building import loader ./node_modules/@storybook/source-loader/dist/cjs/index.js
+<s> [webpack.Progress] 13% building 1/18 entries 202/230 dependencies 9/111 modules
+<s> [webpack.Progress] 13% building 1/18 entries 361/399 dependencies 33/157 modules
+<s> [webpack.Progress] 16% building 2/18 entries 457/581 dependencies 52/167 modules
+<s> [webpack.Progress] 16% building 2/18 entries 525/586 dependencies 59/200 modules
+<s> [webpack.Progress] 19% building 3/18 entries 654/714 dependencies 75/239 modules
+<s> [webpack.Progress] 19% building 3/18 entries 967/1014 dependencies 91/300 modules
+<s> [webpack.Progress] 19% building 3/18 entries 1200/1329 dependencies 136/359 modules
+<s> [webpack.Progress] 19% building 3/18 entries 1300/1334 dependencies 147/389 modules
+<s> [webpack.Progress] 19% building 3/18 entries 1348/1900 dependencies 159/409 modules
+<s> [webpack.Progress] 19% building 3/18 entries 1355/2000 dependencies 160/416 modules
+<s> [webpack.Progress] 22% building 4/18 entries 1595/2190 dependencies 195/511 modules
+<s> [webpack.Progress] 22% building 4/18 entries 2293/2600 dependencies 269/633 modules
+<s> [webpack.Progress] 22% building 4/18 entries 3033/3100 dependencies 303/871 modules
+<s> [webpack.Progress] 22% building 4/18 entries 3360/3400 dependencies 330/918 modules
+<s> [webpack.Progress] 22% building 4/18 entries 3900/3942 dependencies 378/953 modules
+<s> [webpack.Progress] 22% building 4/18 entries 4200/4237 dependencies 460/980 modules
+<s> [webpack.Progress] 22% building 4/18 entries 4350/4400 dependencies 559/1016 modules
+<s> [webpack.Progress] 22% building 4/18 entries 4785/4800 dependencies 799/1127 modules
+<s> [webpack.Progress] 22% building 4/18 entries 4868/5000 dependencies 856/1133 modules
+<s> [webpack.Progress] 22% building 4/18 entries 4900/5067 dependencies 883/1136 modules
+<s> [webpack.Progress] 22% building 4/18 entries 4983/5200 dependencies 913/1172 modules
+<s> [webpack.Progress] 22% building 4/18 entries 5100/5252 dependencies 918/1199 modules
+<s> [webpack.Progress] 22% building 4/18 entries 5444/5500 dependencies 1026/1311 modules
+<s> [webpack.Progress] 22% building 4/18 entries 5600/5667 dependencies 1055/1349 modules
+<s> [webpack.Progress] 22% building 4/18 entries 5800/6039 dependencies 1136/1431 modules
+<s> [webpack.Progress] 23% building 4/18 entries 6100/6138 dependencies 1188/1580 modules
+<s> [webpack.Progress] 24% building 4/18 entries 6173/6200 dependencies 1317/1606 modules
+<s> [webpack.Progress] 25% building 4/18 entries 6300/6342 dependencies 1409/1620 modules
+<s> [webpack.Progress] 26% building 4/18 entries 6568/6600 dependencies 1461/1663 modules
+<s> [webpack.Progress] 27% building 5/18 entries 6694/6712 dependencies 1574/1683 modules
+<s> [webpack.Progress] 28% building 6/18 entries 6694/6712 dependencies 1575/1683 modules
+<s> [webpack.Progress] 31% building 7/18 entries 6694/6712 dependencies 1576/1683 modules
+<s> [webpack.Progress] 34% building 8/18 entries 6694/6712 dependencies 1577/1683 modules
+<s> [webpack.Progress] 37% building 9/18 entries 6694/6712 dependencies 1578/1683 modules
+<s> [webpack.Progress] 40% building 10/18 entries 6694/6712 dependencies 1579/1683 modules
+<s> [webpack.Progress] 43% building 11/18 entries 6694/6712 dependencies 1580/1683 modules
+<s> [webpack.Progress] 46% building 12/18 entries 6694/6712 dependencies 1581/1683 modules
+<s> [webpack.Progress] 49% building 13/18 entries 6694/6712 dependencies 1582/1683 modules
+<s> [webpack.Progress] 52% building 14/18 entries 6829/6838 dependencies 1638/1717 modules
+<s> [webpack.Progress] 55% building 15/18 entries 6965/6966 dependencies 1719/1759 modules
+<s> [webpack.Progress] 58% building 16/18 entries 6965/6966 dependencies 1735/1759 modules
+<s> [webpack.Progress] 61% building 17/18 entries 6965/6966 dependencies 1735/1759 modules
+<s> [webpack.Progress] 64% building 18/18 entries 6967/6967 dependencies 1760/1760 modules
+<s> [webpack.Progress] 65% building
+<s> [webpack.Progress] 69% building finish
+<s> [webpack.Progress] 69% building finish
+<s> [webpack.Progress] 70% sealing finish module graph
+<s> [webpack.Progress] 70% sealing finish module graph angular-compiler
+<s> [webpack.Progress] 70% sealing finish module graph ResolverCachePlugin
+<s> [webpack.Progress] 70% sealing finish module graph InferAsyncModulesPlugin
+<s> [webpack.Progress] 70% sealing finish module graph FlagDependencyExportsPlugin
+<s> [webpack.Progress] 70% sealing finish module graph InnerGraphPlugin
+<s> [webpack.Progress] 70% sealing finish module graph WasmFinalizeExportsPlugin
+<s> [webpack.Progress] 70% sealing finish module graph
+<s> [webpack.Progress] 70% sealing plugins
+<s> [webpack.Progress] 70% sealing plugins WarnCaseSensitiveModulesPlugin
+<s> [webpack.Progress] 70% sealing plugins
+<s> [webpack.Progress] 71% sealing dependencies optimization
+<s> [webpack.Progress] 71% sealing dependencies optimization SideEffectsFlagPlugin
+<s> [webpack.Progress] 71% sealing dependencies optimization FlagDependencyUsagePlugin
+<s> [webpack.Progress] 71% sealing dependencies optimization
+<s> [webpack.Progress] 71% sealing after dependencies optimization
+<s> [webpack.Progress] 71% sealing after dependencies optimization
+<s> [webpack.Progress] 72% sealing chunk graph
+<s> [webpack.Progress] 72% sealing chunk graph
+<s> [webpack.Progress] 73% sealing after chunk graph
+<s> [webpack.Progress] 73% sealing after chunk graph
+<s> [webpack.Progress] 73% sealing optimizing
+<s> [webpack.Progress] 73% sealing optimizing
+<s> [webpack.Progress] 74% sealing module optimization
+<s> [webpack.Progress] 74% sealing module optimization
+<s> [webpack.Progress] 75% sealing after module optimization
+<s> [webpack.Progress] 75% sealing after module optimization
+<s> [webpack.Progress] 75% sealing chunk optimization
+<s> [webpack.Progress] 75% sealing chunk optimization EnsureChunkConditionsPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization MergeDuplicateChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization SplitChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization
+<s> [webpack.Progress] 76% sealing after chunk optimization
+<s> [webpack.Progress] 76% sealing after chunk optimization
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization PersistentChildCompilerSingletonPlugin
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing after module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing after module and chunk tree optimization
+<s> [webpack.Progress] 78% sealing chunk modules optimization
+<s> [webpack.Progress] 78% sealing chunk modules optimization ModuleConcatenationPlugin
+<s> [webpack.Progress] 78% sealing chunk modules optimization
+<s> [webpack.Progress] 78% sealing after chunk modules optimization
+<s> [webpack.Progress] 78% sealing after chunk modules optimization
+<s> [webpack.Progress] 79% sealing module reviving
+<s> [webpack.Progress] 79% sealing module reviving RecordIdsPlugin
+<s> [webpack.Progress] 79% sealing module reviving
+<s> [webpack.Progress] 80% sealing before module ids
+<s> [webpack.Progress] 80% sealing before module ids
+<s> [webpack.Progress] 80% sealing module ids
+<s> [webpack.Progress] 80% sealing module ids NamedModuleIdsPlugin
+<s> [webpack.Progress] 80% sealing module ids
+<s> [webpack.Progress] 81% sealing module id optimization
+<s> [webpack.Progress] 81% sealing module id optimization
+<s> [webpack.Progress] 82% sealing module id optimization
+<s> [webpack.Progress] 82% sealing module id optimization
+<s> [webpack.Progress] 82% sealing chunk reviving
+<s> [webpack.Progress] 82% sealing chunk reviving RecordIdsPlugin
+<s> [webpack.Progress] 82% sealing chunk reviving
+<s> [webpack.Progress] 83% sealing before chunk ids
+<s> [webpack.Progress] 83% sealing before chunk ids
+<s> [webpack.Progress] 84% sealing chunk ids
+<s> [webpack.Progress] 84% sealing chunk ids DeterministicChunkIdsPlugin
+<s> [webpack.Progress] 84% sealing chunk ids
+<s> [webpack.Progress] 84% sealing chunk id optimization
+<s> [webpack.Progress] 84% sealing chunk id optimization FlagIncludedChunksPlugin
+<s> [webpack.Progress] 84% sealing chunk id optimization
+<s> [webpack.Progress] 85% sealing after chunk id optimization
+<s> [webpack.Progress] 85% sealing after chunk id optimization
+<s> [webpack.Progress] 86% sealing record modules
+<s> [webpack.Progress] 86% sealing record modules RecordIdsPlugin
+<s> [webpack.Progress] 86% sealing record modules
+<s> [webpack.Progress] 86% sealing record chunks
+<s> [webpack.Progress] 86% sealing record chunks RecordIdsPlugin
+<s> [webpack.Progress] 86% sealing record chunks
+<s> [webpack.Progress] 87% sealing module hashing
+<s> [webpack.Progress] 87% sealing module hashing
+<s> [webpack.Progress] 87% sealing code generation
+<s> [webpack.Progress] 87% sealing code generation
+<s> [webpack.Progress] 88% sealing runtime requirements
+<s> [webpack.Progress] 88% sealing runtime requirements
+<s> [webpack.Progress] 89% sealing hashing
+<s> [webpack.Progress] 89% sealing hashing
+<s> [webpack.Progress] 89% sealing after hashing
+<s> [webpack.Progress] 89% sealing after hashing
+<s> [webpack.Progress] 90% sealing record hash
+<s> [webpack.Progress] 90% sealing record hash
+<s> [webpack.Progress] 91% sealing module assets processing
+<s> [webpack.Progress] 91% sealing module assets processing
+<s> [webpack.Progress] 91% sealing chunk assets processing
+<s> [webpack.Progress] 91% sealing chunk assets processing
+<s> [webpack.Progress] 92% sealing asset processing
+<s> [webpack.Progress] 92% sealing asset processing copy-webpack-plugin
+<s> [webpack.Progress] 92% sealing asset processing PersistentChildCompilerSingletonPlugin
+<s> [webpack.Progress] 92% sealing asset processing TerserPlugin
+info => Manager built (55 s)
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.css generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.css generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.8319b288.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.8319b288.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.16318820.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.16318820.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 747.4d7f0ac8.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 747.4d7f0ac8.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 366.45deec63.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 366.45deec63.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 565.97c23ebe.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 565.97c23ebe.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 239.358924bb.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 239.358924bb.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 471.4e41598f.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 471.4e41598f.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 345.793cee98.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 345.793cee98.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 39.920b7308.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 39.920b7308.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 996.b03aef82.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 996.b03aef82.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 225.ff116299.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 225.ff116299.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 291.03611412.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 291.03611412.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 877.d1fa557e.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 877.d1fa557e.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 877.d1fa557e.iframe.bundle.js attach SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 877.d1fa557e.iframe.bundle.js attached SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.5ab6b79e.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.5ab6b79e.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.33b1934a.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.33b1934a.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 747.2e592bfe.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 747.2e592bfe.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 345.b8f4061f.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 345.b8f4061f.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 996.66e30629.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 996.66e30629.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 225.adf1b44b.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 225.adf1b44b.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 366.1b69c992.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 366.1b69c992.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 565.de0d997c.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 565.de0d997c.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 239.43bc22d7.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 239.43bc22d7.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 471.0a953f2c.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 471.0a953f2c.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 39.2ed10874.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 39.2ed10874.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 291.4044512f.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 291.4044512f.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing AnyComponentStyleBudgetChecker
+<s> [webpack.Progress] 92% sealing asset processing
+<s> [webpack.Progress] 93% sealing after asset optimization
+<s> [webpack.Progress] 93% sealing after asset optimization
+<s> [webpack.Progress] 93% sealing recording
+<s> [webpack.Progress] 93% sealing recording
+<s> [webpack.Progress] 94% sealing after seal
+<s> [webpack.Progress] 94% sealing after seal
+<s> [webpack.Progress] 95% emitting emit
+<s> [webpack.Progress] 95% emitting emit
+<s> [webpack.Progress] 98% emitting after emit
+<s> [webpack.Progress] 98% emitting after emit SizeLimitsPlugin
+<s> [webpack.Progress] 98% emitting after emit
+<s> [webpack.Progress] 99% done plugins
+<s> [webpack.Progress] 99% done plugins CaseSensitivePathsPlugin
+<s> [webpack.Progress] 99% done plugins
+<s> [webpack.Progress] 99% 
+
+<s> [webpack.Progress] 99% cache store build dependencies
+<s> [webpack.Progress] 99% cache store build dependencies
+<s> [webpack.Progress] 99% cache begin idle
+<s> [webpack.Progress] 99% cache begin idle
+<s> [webpack.Progress] 100% 
+
+info => Preview built (1.12 min)
+WARN C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/app.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/app.module.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/components/inbox-screen.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/task-list.stories.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/environments/environment.prod.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/environments/environment.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/main.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/stories/Button.stories.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/stories/Header.stories.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/stories/Page.stories.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/stories/User.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/stories/button.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/stories/header.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/stories/page.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+WARN This can impact web performance.
+WARN Assets: 
+WARN   366.1b69c992.iframe.bundle.js (601 KiB)
+WARN   565.de0d997c.iframe.bundle.js (603 KiB)
+WARN   471.0a953f2c.iframe.bundle.js (791 KiB)
+WARN   877.6f42dc96.iframe.bundle.js (3.15 MiB)
+WARN entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+WARN Entrypoints:
+WARN   main (3.28 MiB)
+WARN       runtime~main.33b1934a.iframe.bundle.js
+WARN       877.6f42dc96.iframe.bundle.js
+WARN       main.css
+WARN       main.5ab6b79e.iframe.bundle.js
+WARN 
+<s> [webpack.Progress] 99% cache shutdown
+<s> [webpack.Progress] 99% cache shutdown
+<s> [webpack.Progress] 100% 
+
+info => Output directory: C:\Users\quint\AppData\Local\Temp\chromatic--7496-vRU9NtCbrIpA
