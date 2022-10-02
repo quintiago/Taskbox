@@ -21,325 +21,402 @@ Node.js version : v14.17.6
 
 Operating system : Windows 10
 
-[22:29:58] No configuration file found, switching to CLI flags.
-[22:29:58] Using tsconfig file : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\tsconfig.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.browserslistrc
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.editorconfig
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.gitignore
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\angular.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\documentation.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\jest.config.js
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\build-storybook.log
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\LICENSE
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\package-lock.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\package.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\README.md
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\tsconfig.app.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\tsconfig.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\tsconfig.spec.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.storybook\main.js
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.storybook\tsconfig.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.storybook\preview.js
-[22:29:58] Ignoring       : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.storybook\typings.d.ts
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\jest-config\setup.ts
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\favicon.ico
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\index.html
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\main.ts
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\polyfills.ts
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\styles.css
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\jest-config\__mocks__\styleMock.js
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\jest-config\__mocks__\globalMocks.ts
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\jest-config\__mocks__\fileMock.js
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\app.component.css
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\app.component.html
-[22:29:58] Ignoring       : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\app.component.spec.ts
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\app.component.ts
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\app.module.ts
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\task-list.stories.ts
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\.gitkeep
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\environments\environment.prod.ts
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\environments\environment.ts
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\button.component.ts
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\button.css
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\Button.stories.ts
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\header.component.ts
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\header.css
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\Header.stories.ts
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\Introduction.stories.mdx
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\page.component.ts
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\page.css
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\Page.stories.ts
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\User.ts
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\components\inbox-screen.component.ts
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\components\pure-inbox-screen.component.ts
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\components\pure-inbox-screen.stories.ts
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\components\pure-task-list.component.ts
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\components\pure-task-list.stories.ts
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\components\task-list.component.ts
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\components\task-list.stories.ts
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\components\task.component.ts
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\components\task.module.ts
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\components\task.stories.ts
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\models\task.model.ts
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\state\task.state.ts
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\font\OpenSans-Light-webfont.eot
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\font\OpenSans-Light-webfont.svg
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\font\OpenSans-Light-webfont.ttf
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\font\OpenSans-Light-webfont.woff
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\font\OpenSans-Regular-webfont.eot
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\font\OpenSans-Regular-webfont.svg
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\font\OpenSans-Regular-webfont.ttf
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\font\OpenSans-Regular-webfont.woff
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\icon\percolate.eot
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\icon\percolate.svg
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\icon\percolate.ttf
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\icon\percolate.woff
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\assets\code-brackets.svg
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\assets\colors.svg
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\assets\comments.svg
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\assets\direction.svg
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\assets\flow.svg
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\assets\plugin.svg
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\assets\stackalt.svg
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\assets\repo.svg
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\028d8007a3482a0ee427706fd3922afb.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\04c9d588e8ba07723cb02160b68c32de.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\101a43b91bf1994f773f633c1215fafc.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\1331c4f538eb441b9cf87b6f3cfa1b43.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\165109fc276cd5d6fb3e8ffd3b91df00.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\0e79df649ed62d8b66ca7f240f178d86.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\19b8968714472db3ecfa5b278a9a7313.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\181a67dc6d63a1badc63f8e69c93084c.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\1a9c29f67d464f5cb838b2e773e8a519.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\1907d43a7e6385e4b50280153edf233b.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\1b1f12b695fc699144a5d34eaf040277.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\1f25ae6116840c59f94bbaa01ec6fa8b.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\205dfaa1280e6555f6c33fa56dde68d8.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\2009453086fcce06834da9d86c814afa.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\21f0798230182c1bec86efc5820ec5a1.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\23980a66a9b9abad778b653b538b2070.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\276cf96f9a69a2d85affa7a98a1ff975.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\27ac883cef680554117b6172ee805c9a.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\2508c8566bce87586c778a802bef4335.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\2c84961de5de0a8abd9a5221e5072a78.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\2e08465e140e06a499920bdf1d6b03ef.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\28c99b7581217639112cb929331d7d9e.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\32c4bf9f7577c2190413f7b147766ba1.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\348e6fcfd25aa66786348c1c1f9ead24.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\362940527f279ba977204e4630790036.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\4226484a7cdaf5dd968e9a76aee48394.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\3791be8e2e18e3a06f966b0a435ad29c.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\3ff146c3bbbdbe8ba93901979897ef5a.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\4622a02625d6d0c5110e19406d64cc46.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\45054e57c79d211171ab25f83f90e57f.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\463e14ef5c6e247952fcf9fc274ae572.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\488f88e8eeb49694848d0c22d8e0203a.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\493ccebd24d4853db93144e024b35240.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\46a8b35ef9fb7e704e9b7739677088c2.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\4a735a77f637c4af38dfc4cec21f82a9.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\4fccd1431c487508bc3f4548bf112e55.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\4f05ac79942f2f1cfc6922dea5bf753c.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\511d1fb14e826e95394cac04ab1de23c.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\501ee73cb40b85bbc6c567057bf1b55d.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\5acb9e362e91e68c965289b320f19f56.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\56c318e98c6ed577fd73bf92899adc2d.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\5a803c5b01256929c6d866b720a99bb9.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\616ba53bf0406d938e07cf2b075fef67.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\69cf918be1f6403f81db9f71a7bbb539.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6a06c679f5f95123803a323275ba4386.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6bc0ec8efca172f61f2b0edf725e8520.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6ce7054148a52ade4943b3d117f37007.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6df9139a8d88e0c2ce7465744557defd.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6eb14db315cfa7656a14272d55f66342.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6ec42ce76f59ad22d1a7642652d97631.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\772f08be73629744227d3bd701c8fe27.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\77b25bd4c5df27d07b938f45b8bdf274.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\7828a66b6df043afd04c7665ad4b47c0.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\85f5324981f853b68c1ef7afdfd6a6ac.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\9074c206637d4fe224a75d0453aecdcc.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\927304f3ac5e97b9ee84538477ed07cf.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\94f9b1911409847194ff2c2962fee8cd.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\9f74c0c1a8c8b6c8cbbd3b8fb03d3ee3.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a2436bcc6b545d3570a19511153ebd0e.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\9deb1517e55de0767ceabbaaa868b1ab.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a27c97f739650350ce29acc325d3ec7f.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a2c16cfab7dbe370aa44518d78b0ff0d.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a5bc82354036b3af1b86d20b5460f739.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a80b2918c2e13f518c184cfe6812980b.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\aa86f39bd610371a7767cb0857fabd0e.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\aafed35ef6ecd42f7662d0faf65cf75d.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\ac71ddd733b2a41f784998ea1ea7fdb1.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\ad18f01cc804d4b97e2d5faa627d5458.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\aee21000e6031633fe5421b527828019.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\b3cac49a899fb8dc19aa21f0607e65a4.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\b8259211f9d9427f122d4ef388ad242e.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\b860469f3830115faf2718df87a96ae4.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\bb6376f0d21d4c92472e4f38c9dc1f93.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\bbb51f849a95b2307d619c8fac71db4c.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\bdfdec20de9748ea778915e1ebfde5a1.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\c2edab0d010163de7933b86256ae0621.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\c3fe4930b0aaa4a902ad660a570c9469.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\bf8787d4048ea4fdc2d4c2248a5f13fa.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\c82eefbb94b6f30f19e8659a1e0f8e7a.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\c8ac074b86853c1adea191ee71ef16e9.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\ce621820692a42580d2a0d7c70e3ed7a.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\caea90e023efcc3d3274a2330613e4ba.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\d487e9a9a82de6a356dac824a6c292b8.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\d76eb7ebc2b8151cde5b877f32d5c1aa.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\d06c0e18ac4f368b2cde446d1cbc17ec.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\db2ab6abb162ed489cd0927221601285.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\db6accb097e6fe50543d052caccc5632.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\dbc0edf3c16f5f9696f25da9bdf9c5f4.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\de34b07869c6d2ba36c0b8c872ab1038.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\e5826f47f5b7085a078bfe290d0d87cc.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\e5efee4b74e4fe6455c5ab1b8dda715f.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\e06ed3cbc5e0a74829fb216eeb24524c.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\f6f0c7e969382e39d3a73f4e477d969b.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\fc490acff79513322cab74b19b6b2f8b.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\eb8a5734cf0d4f98fb8f3bfcab83683e.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\fcc56884ced6490acb0dfec8a471f9f2.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\feead938cc261cafb97d43cfcc29b9c5.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\26f0cb0266351056aac8355b40a63e91.json
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\angular-webpack\5408040597ab15813650f62e791115287ec9bcf8\0.pack
-[22:29:58] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\angular-webpack\5408040597ab15813650f62e791115287ec9bcf8\index.pack
-[22:29:58] Searching package.json file
-[22:29:58] package.json file found
-[22:29:58] Processing package.json dependencies
-[22:29:58] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
-[22:29:58] README.md file found
-[22:29:58] Error during C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\CHANGELOG read
-[22:29:58] Continuing without CHANGELOG.md file
-[22:29:58] Error during C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\CONTRIBUTING read
-[22:29:58] Continuing without CONTRIBUTING.md file
-[22:29:58] LICENSE.md file found
-[22:29:58] Error during C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\TODO read
-[22:29:58] Continuing without TODO.md file
-[22:29:58] Get dependencies data
-[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/jest-config/setup.ts
-[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/main.ts
-[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/polyfills.ts
-[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/jest-config/__mocks__/globalMocks.ts
-[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/app.component.ts
-[22:29:58] found          : AppComponent
-[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/app.module.ts
-[22:29:58] found          : AppModule
-[22:29:58]                : - imports:
-[22:29:58]                : 	- BrowserModule
-[22:29:58]                : 	- TaskModule
-[22:29:58]                : 	- NgxsModule
-[22:29:58]                : 	- NgxsReduxDevtoolsPluginModule
-[22:29:58]                : 	- NgxsLoggerPluginModule
-[22:29:58]                : - declarations:
-[22:29:58]                : 	- AppComponent
-[22:29:58]                : 	- InboxScreenComponent
-[22:29:58]                : 	- PureInboxScreenComponent
-[22:29:58]                : - bootstrap:
-[22:29:58]                : 	- AppComponent
-[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/task-list.stories.ts
-[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/environments/environment.prod.ts
-[22:29:58] found          : environment
-[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/environments/environment.ts
-[22:29:58] found          : environment
-[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/stories/button.component.ts
-[22:29:58] found          : ButtonComponent
-[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/stories/Button.stories.ts
-[22:29:58] found          : Template
-[22:29:58] found          : Primary
-[22:29:58] found          : Secondary
-[22:29:58] found          : Large
-[22:29:58] found          : Small
-[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/stories/header.component.ts
-[22:29:58] found          : HeaderComponent
-[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/stories/Header.stories.ts
-[22:29:58] found          : Template
-[22:29:58] found          : LoggedIn
-[22:29:58] found          : LoggedOut
-[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/stories/page.component.ts
-[22:29:58] found          : PageComponent
-[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/stories/Page.stories.ts
-[22:29:58] found          : Template
-[22:29:58] found          : LoggedOut
-[22:29:58] found          : LoggedIn
-[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/stories/User.ts
-[22:29:58] found          : User
-[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/components/inbox-screen.component.ts
-[22:29:58] found          : InboxScreenComponent
-[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/components/pure-inbox-screen.component.ts
-[22:29:58] found          : PureInboxScreenComponent
-[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/components/pure-inbox-screen.stories.ts
-[22:29:58] found          : Template
-[22:29:58] found          : Default
-[22:29:58] found          : Error
-[22:29:58] found          : WithInteractions
-[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/components/pure-task-list.component.ts
-[22:29:58] found          : PureTaskListComponent
-[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/components/pure-task-list.stories.ts
-[22:29:58] found          : Template
-[22:29:58] found          : Default
-[22:29:58] found          : WithPinnedTasks
-[22:29:58] found          : Loading
-[22:29:58] found          : Empty
-[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/components/task-list.component.ts
-[22:29:58] found          : TaskListComponent
-[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/components/task-list.stories.ts
-[22:29:58] found          : Template
-[22:29:58] found          : Default
-[22:29:58] found          : WithPinnedTasks
-[22:29:58] found          : Loading
-[22:29:58] found          : Empty
-[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/components/task.component.ts
-[22:29:58] found          : TaskComponent
-[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/components/task.module.ts
-[22:29:58] found          : TaskModule
-[22:29:58]                : - imports:
-[22:29:58]                : 	- CommonModule
-[22:29:58]                : 	- NgxsModule
-[22:29:58]                : - exports:
-[22:29:58]                : 	- TaskComponent
-[22:29:58]                : 	- TaskListComponent
-[22:29:58]                : - declarations:
-[22:29:58]                : 	- TaskComponent
-[22:29:58]                : 	- TaskListComponent
-[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/components/task.stories.ts
-[22:29:58] found          : actionsData
-[22:29:58] found          : Template
-[22:29:58] found          : Default
-[22:29:58] found          : Pinned
-[22:29:58] found          : Archived
-[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/models/task.model.ts
-[22:29:58] found          : Task
-[22:29:58] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/state/task.state.ts
-[22:29:58] found          : actions
-[22:29:58] found          : ArchiveTask
-[22:29:58] found          : PinTask
-[22:29:58] found          : AppError
-[22:29:58] found          : defaultTasks
-[22:29:58] found          : TaskStateModel
-[22:29:58] found          : TasksState
-[22:29:58] -------------------
-[22:29:58] Project statistics 
-[22:29:58] - files      : 177
-[22:29:58] - module     : 2
-[22:29:58] - component  : 9
-[22:29:58] - injectable : 1
-[22:29:58] - class      : 3
-[22:29:58] - interface  : 3
-[22:29:58] -------------------
-[22:29:58] Prepare components
-[22:29:58]  ButtonComponent has styleUrls, include them
-[22:29:58]  HeaderComponent has styleUrls, include them
-[22:29:58]  PageComponent has styleUrls, include them
-[22:29:58] Prepare modules
-[22:29:58] Prepare injectables
-[22:29:58] Prepare classes
-[22:29:58] Prepare interfaces
-[22:29:58] Prepare miscellaneous
-[22:29:58] Process documentation coverage report
-[22:29:58] Generating documentation in export format json
-[22:29:58] Documentation generated in ./ in 0.721 seconds
+[10:12:28] No configuration file found, switching to CLI flags.
+[10:12:29] Using tsconfig file : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\tsconfig.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.editorconfig
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.browserslistrc
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.gitignore
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\angular.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\build-storybook.log
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\documentation.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\jest.config.js
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\LICENSE
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\package.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\README.md
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\package-lock.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\tsconfig.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\tsconfig.app.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\tsconfig.spec.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.storybook\main.js
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.storybook\tsconfig.json
+[10:12:29] Ignoring       : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.storybook\typings.d.ts
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.storybook\preview.js
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\favicon.ico
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\main.ts
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\polyfills.ts
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\jest-config\setup.ts
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\index.html
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\styles.css
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.github\workflows\chromatic.yml
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\jest-config\__mocks__\globalMocks.ts
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\jest-config\__mocks__\fileMock.js
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\jest-config\__mocks__\styleMock.js
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\app.component.css
+[10:12:29] Ignoring       : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\app.component.spec.ts
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\app.component.html
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\app.component.ts
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\app.module.ts
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\task-list.stories.ts
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\.gitkeep
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\environments\environment.prod.ts
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\environments\environment.ts
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\button.component.ts
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\Button.stories.ts
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\header.component.ts
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\button.css
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\Header.stories.ts
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\header.css
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\page.component.ts
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\Page.stories.ts
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\Introduction.stories.mdx
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\page.css
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\User.ts
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\components\inbox-screen.component.ts
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\components\pure-inbox-screen.component.ts
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\components\pure-inbox-screen.stories.ts
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\components\pure-task-list.component.ts
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\components\pure-task-list.stories.ts
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\components\task-list.component.ts
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\components\task-list.stories.ts
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\components\task.component.ts
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\components\task.module.ts
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\components\task.stories.ts
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\models\task.model.ts
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\app\state\task.state.ts
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\font\OpenSans-Light-webfont.eot
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\font\OpenSans-Light-webfont.svg
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\font\OpenSans-Light-webfont.ttf
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\font\OpenSans-Regular-webfont.eot
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\font\OpenSans-Regular-webfont.woff
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\icon\percolate.eot
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\font\OpenSans-Light-webfont.woff
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\font\OpenSans-Regular-webfont.svg
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\font\OpenSans-Regular-webfont.ttf
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\icon\percolate.ttf
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\icon\percolate.woff
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\assets\code-brackets.svg
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\assets\colors.svg
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\assets\direction.svg
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\assets\comments.svg
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\assets\flow.svg
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\assets\plugin.svg
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\assets\repo.svg
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\stories\assets\stackalt.svg
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\src\assets\icon\percolate.svg
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\angular-webpack\5408040597ab15813650f62e791115287ec9bcf8\0.pack
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\angular-webpack\5408040597ab15813650f62e791115287ec9bcf8\index.pack
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\04c9d588e8ba07723cb02160b68c32de.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\0738ba28459da9179b2ff5f05123b767.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\0667a36fd01d1c8308f4a06be6bfc84a.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\028d8007a3482a0ee427706fd3922afb.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\0ef4c5b9b26bf74ec3215d6ac555e62f.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\101a43b91bf1994f773f633c1215fafc.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\1331c4f538eb441b9cf87b6f3cfa1b43.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\0e79df649ed62d8b66ca7f240f178d86.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\14f717bf53a469685f52657dcb8250f1.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\147b353fa78f1277bfc8847f2b0ce1c1.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\19b8968714472db3ecfa5b278a9a7313.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\1a9c29f67d464f5cb838b2e773e8a519.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\165109fc276cd5d6fb3e8ffd3b91df00.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\181a67dc6d63a1badc63f8e69c93084c.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\1b1f12b695fc699144a5d34eaf040277.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\1c5f22b5fababfc464d042621e7db2a6.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\1db6cf186c199cfbe53bb9450b8fc948.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\205dfaa1280e6555f6c33fa56dde68d8.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\20911e5919a83e9218fbdb9a2e74e977.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\21f0798230182c1bec86efc5820ec5a1.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\2009453086fcce06834da9d86c814afa.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\23980a66a9b9abad778b653b538b2070.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\256130e5f6b77b0ac46e47cacfa2530b.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\26f0cb0266351056aac8355b40a63e91.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\2508c8566bce87586c778a802bef4335.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\1907d43a7e6385e4b50280153edf233b.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\279b9ddafaeadc0ee1d19fea6ee9f22a.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\1f25ae6116840c59f94bbaa01ec6fa8b.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\27ac883cef680554117b6172ee805c9a.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\2852822403e0a2d480edcdec70282bb9.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\27a6d7cd391b9de150152d81e1d93eba.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\28c99b7581217639112cb929331d7d9e.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\2c84961de5de0a8abd9a5221e5072a78.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\2e08465e140e06a499920bdf1d6b03ef.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\2e32629d1797ff73fc641b7cf0b34ed8.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\32c4bf9f7577c2190413f7b147766ba1.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\348e6fcfd25aa66786348c1c1f9ead24.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\362940527f279ba977204e4630790036.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\3ad43e45cdef895641a0023cff45f858.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\3b9d9706e83d973bdf930c0d64ed3867.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\3bad22c988ff1886d77b5269fdee682f.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\3c85ab2436e6e9a0567978ce1bdced3e.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\3ed3497deff3f95f1da6ce1435be8371.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\3791be8e2e18e3a06f966b0a435ad29c.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\3cb456d272ae96152c6c9316ee571324.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\4226484a7cdaf5dd968e9a76aee48394.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\45054e57c79d211171ab25f83f90e57f.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\4622a02625d6d0c5110e19406d64cc46.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\463e14ef5c6e247952fcf9fc274ae572.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\276cf96f9a69a2d85affa7a98a1ff975.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\488f88e8eeb49694848d0c22d8e0203a.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\3ff146c3bbbdbe8ba93901979897ef5a.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\46a8b35ef9fb7e704e9b7739677088c2.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\4a735a77f637c4af38dfc4cec21f82a9.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\4ba7f8105218e93c56908cf0fd39a7b3.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\4fccd1431c487508bc3f4548bf112e55.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\493ccebd24d4853db93144e024b35240.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\511d1fb14e826e95394cac04ab1de23c.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\501ee73cb40b85bbc6c567057bf1b55d.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\4f05ac79942f2f1cfc6922dea5bf753c.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\50d643b15268d3067a4113523c91519a.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\57c953688fc8279f7d2485efceac9d22.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\58c4097510c71466c7dd1ce2cc610c6d.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\5a85027e999b581732095219c6d781fc.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\5a803c5b01256929c6d866b720a99bb9.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\5c4e591cca2318c0fe1a910093da7270.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\5b5ec63862ffb4c3beec6643f076f1ad.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\56c318e98c6ed577fd73bf92899adc2d.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\5ea83909c81b95e44e1f2fe82fd17033.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\616ba53bf0406d938e07cf2b075fef67.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\5acb9e362e91e68c965289b320f19f56.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6a06c679f5f95123803a323275ba4386.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6a954c0ac82159f738f00ff092ee5246.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\69cf918be1f6403f81db9f71a7bbb539.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6bc0ec8efca172f61f2b0edf725e8520.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6ce7054148a52ade4943b3d117f37007.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6e57331416651cbb37cf5db475084a93.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\63abb5e7cdbcf582435db56f59fc7d32.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6eb14db315cfa7656a14272d55f66342.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6bdcebda84961255d77fe1f3d0519065.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6df9139a8d88e0c2ce7465744557defd.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6ec42ce76f59ad22d1a7642652d97631.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\756c9691aeef5b3ced11a95794f7a288.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6ed4cee96f8fff3b0d5a2b85ce78f936.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\77b25bd4c5df27d07b938f45b8bdf274.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\7828a66b6df043afd04c7665ad4b47c0.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\74440a6b139cc1700988589a35c9c78a.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\8021c2644f7928952be54d5a872175f2.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\85f09c739cffa9f3a537c4fcd5e49af9.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\85f5324981f853b68c1ef7afdfd6a6ac.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\754764f3aa46f8a49982452790ce6714.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\772f08be73629744227d3bd701c8fe27.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\888b026a9b36d9420c0de9f5a24e01c1.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\9074c206637d4fe224a75d0453aecdcc.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\927304f3ac5e97b9ee84538477ed07cf.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\957f5c4e9b3bd3624c57a7a254689370.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\94f9b1911409847194ff2c2962fee8cd.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\806ceefee7144487d78135e2dacda172.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\9601b21d6dad85eec859a8f8081a95e9.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\962f2f6fe8dd330c03ec5bcff385ddc7.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\9c40457cf691a130b2616cfc348ddc2a.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\9deb1517e55de0767ceabbaaa868b1ab.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\9f74c0c1a8c8b6c8cbbd3b8fb03d3ee3.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\9fdf447dd8cfe8301148367c6c4fdf11.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a2436bcc6b545d3570a19511153ebd0e.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a2c16cfab7dbe370aa44518d78b0ff0d.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a27c97f739650350ce29acc325d3ec7f.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a688fa7f6881ef5d272190483621c441.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\9d6e6f0d14b6b0e30404d87d62d8f581.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a7278417e44d2e3b1af2ff5bab1f6a60.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a80b2918c2e13f518c184cfe6812980b.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a5bc82354036b3af1b86d20b5460f739.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a42883b39b424bdfd19424780e2a29a8.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\ac71ddd733b2a41f784998ea1ea7fdb1.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\aa86f39bd610371a7767cb0857fabd0e.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\aee21000e6031633fe5421b527828019.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\b1d8bce79972d7fec649b56b2ca5ad6a.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\b2f576e496817a0fa445015d9fa4606d.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\ad18f01cc804d4b97e2d5faa627d5458.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\b3cac49a899fb8dc19aa21f0607e65a4.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\b50cf0267972ed042b9932ec9a330f0a.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\b767c6a83b9e82b1dd10d0227cc4a68b.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\aafed35ef6ecd42f7662d0faf65cf75d.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\b860469f3830115faf2718df87a96ae4.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\ba29566a11e6c6662b7be9a52c04c842.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\b8259211f9d9427f122d4ef388ad242e.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\b8a053f15bd0ee3ce2bf1ab5d6bf92ff.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\bbb51f849a95b2307d619c8fac71db4c.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\bdfdec20de9748ea778915e1ebfde5a1.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\c148c8c1c183d6bc2c5771f8fcfb08f5.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\bf8787d4048ea4fdc2d4c2248a5f13fa.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\bb6376f0d21d4c92472e4f38c9dc1f93.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\c2e9ff2d24b1351e9d6138a9fa707bbc.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\c3fe4930b0aaa4a902ad660a570c9469.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\c5147527f806cffe0a7365e1c4ee532d.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\c2edab0d010163de7933b86256ae0621.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\c56f391882c44fcfe42fbffb3e4ca6ed.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\c8ac074b86853c1adea191ee71ef16e9.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\caea90e023efcc3d3274a2330613e4ba.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\ce621820692a42580d2a0d7c70e3ed7a.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\cc0af24c2170e70f98f8c2144e569ddc.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\cf9c60edbf65f80794037923b7c48121.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\d06c0e18ac4f368b2cde446d1cbc17ec.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\c82eefbb94b6f30f19e8659a1e0f8e7a.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\d1c7dd43624325a6027a2cc3f406a6ce.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\d246d232d714315846ae42f933c58882.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\d487e9a9a82de6a356dac824a6c292b8.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\d8c89eff8e930a5b816c1740de22f4a7.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\da69e535e2af948e03e799f0119909c6.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\db2ab6abb162ed489cd0927221601285.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\db6accb097e6fe50543d052caccc5632.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\dbc0edf3c16f5f9696f25da9bdf9c5f4.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\dbf704d3b9b86be6ace42471a74ad8d1.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\dde08cfdd007a46f6577656b6dd4c2ae.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\d76eb7ebc2b8151cde5b877f32d5c1aa.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\e30050629549c7606568ec1feefef237.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\e4eb1b277b58d4c3cbbb81a9b095c34a.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\de34b07869c6d2ba36c0b8c872ab1038.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\e06ed3cbc5e0a74829fb216eeb24524c.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\e5efee4b74e4fe6455c5ab1b8dda715f.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\e5826f47f5b7085a078bfe290d0d87cc.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\eb366b68995475b66f55d6cfcb13374c.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\ed6753233ea16a3b58e27176a4cbf32b.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\ef5d94eed8f08691841494c2c05e6e9f.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\e6eba5fe4306904170840425762189ec.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\f2624562622d66a7209ec868b267a4d1.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\eb8a5734cf0d4f98fb8f3bfcab83683e.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\f6f0c7e969382e39d3a73f4e477d969b.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\fa63a244b0a4a87011e0d186b45bf0a1.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\fc490acff79513322cab74b19b6b2f8b.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\fcc56884ced6490acb0dfec8a471f9f2.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\f4c5abd1bb2c103a404c16957d667b28.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\feead938cc261cafb97d43cfcc29b9c5.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\fb60594fac400403141bf532f169e4b8.json
+[10:12:29] Including      : C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a87085fb8177160f926425a0ea16bcfc.json
+[10:12:29] Searching package.json file
+[10:12:29] package.json file found
+[10:12:29] Processing package.json dependencies
+[10:12:29] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
+[10:12:29] README.md file found
+[10:12:29] Error during C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\CHANGELOG read
+[10:12:29] Continuing without CHANGELOG.md file
+[10:12:29] Error during C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\CONTRIBUTING read
+[10:12:29] Continuing without CONTRIBUTING.md file
+[10:12:29] LICENSE.md file found
+[10:12:29] Error during C:\Users\quint\OneDrive\Escritorio\Storybook\taskbox\TODO read
+[10:12:29] Continuing without TODO.md file
+[10:12:29] Get dependencies data
+[10:12:29] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/main.ts
+[10:12:29] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/polyfills.ts
+[10:12:29] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/jest-config/setup.ts
+[10:12:29] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/jest-config/__mocks__/globalMocks.ts
+[10:12:29] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/app.component.ts
+[10:12:29] found          : AppComponent
+[10:12:29] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/app.module.ts
+[10:12:29] found          : AppModule
+[10:12:29]                : - imports:
+[10:12:29]                : 	- BrowserModule
+[10:12:29]                : 	- TaskModule
+[10:12:29]                : 	- NgxsModule
+[10:12:29]                : 	- NgxsReduxDevtoolsPluginModule
+[10:12:29]                : 	- NgxsLoggerPluginModule
+[10:12:29]                : - declarations:
+[10:12:29]                : 	- AppComponent
+[10:12:29]                : - bootstrap:
+[10:12:29]                : 	- AppComponent
+[10:12:29] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/task-list.stories.ts
+[10:12:29] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/environments/environment.prod.ts
+[10:12:29] found          : environment
+[10:12:29] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/environments/environment.ts
+[10:12:29] found          : environment
+[10:12:29] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/stories/button.component.ts
+[10:12:29] found          : ButtonComponent
+[10:12:29] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/stories/Button.stories.ts
+[10:12:29] found          : Template
+[10:12:29] found          : Primary
+[10:12:29] found          : Secondary
+[10:12:29] found          : Large
+[10:12:29] found          : Small
+[10:12:29] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/stories/header.component.ts
+[10:12:29] found          : HeaderComponent
+[10:12:29] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/stories/Header.stories.ts
+[10:12:29] found          : Template
+[10:12:29] found          : LoggedIn
+[10:12:29] found          : LoggedOut
+[10:12:29] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/stories/page.component.ts
+[10:12:29] found          : PageComponent
+[10:12:29] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/stories/Page.stories.ts
+[10:12:29] found          : Template
+[10:12:29] found          : LoggedOut
+[10:12:29] found          : LoggedIn
+[10:12:29] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/stories/User.ts
+[10:12:29] found          : User
+[10:12:29] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/components/inbox-screen.component.ts
+[10:12:29] found          : InboxScreenComponent
+[10:12:29] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/components/pure-inbox-screen.component.ts
+[10:12:29] found          : PureInboxScreenComponent
+[10:12:29] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/components/pure-inbox-screen.stories.ts
+[10:12:29] found          : Template
+[10:12:29] found          : Default
+[10:12:29] found          : Error
+[10:12:29] found          : WithInteractions
+[10:12:29] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/components/pure-task-list.component.ts
+[10:12:29] found          : PureTaskListComponent
+[10:12:29] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/components/pure-task-list.stories.ts
+[10:12:29] found          : Template
+[10:12:29] found          : Default
+[10:12:29] found          : WithPinnedTasks
+[10:12:29] found          : Loading
+[10:12:29] found          : Empty
+[10:12:29] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/components/task-list.component.ts
+[10:12:29] found          : TaskListComponent
+[10:12:29] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/components/task-list.stories.ts
+[10:12:29] found          : Template
+[10:12:29] found          : Default
+[10:12:29] found          : WithPinnedTasks
+[10:12:29] found          : Loading
+[10:12:29] found          : Empty
+[10:12:29] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/components/task.component.ts
+[10:12:29] found          : TaskComponent
+[10:12:29] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/components/task.module.ts
+[10:12:29] found          : TaskModule
+[10:12:29]                : - imports:
+[10:12:29]                : 	- CommonModule
+[10:12:29]                : 	- NgxsModule
+[10:12:29]                : - exports:
+[10:12:29]                : 	- TaskComponent
+[10:12:29]                : 	- TaskListComponent
+[10:12:29]                : - declarations:
+[10:12:29]                : 	- TaskComponent
+[10:12:29]                : 	- TaskListComponent
+[10:12:29]                : 	- PureTaskListComponent
+[10:12:29] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/components/task.stories.ts
+[10:12:29] found          : actionsData
+[10:12:29] found          : Template
+[10:12:29] found          : Default
+[10:12:29] found          : Pinned
+[10:12:29] found          : Archived
+[10:12:29] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/models/task.model.ts
+[10:12:29] found          : Task
+[10:12:29] parsing        : C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/state/task.state.ts
+[10:12:29] found          : actions
+[10:12:29] found          : ArchiveTask
+[10:12:29] found          : PinTask
+[10:12:29] found          : AppError
+[10:12:29] found          : defaultTasks
+[10:12:29] found          : TaskStateModel
+[10:12:29] found          : TasksState
+[10:12:29] -------------------
+[10:12:29] Project statistics 
+[10:12:29] - files      : 255
+[10:12:29] - module     : 2
+[10:12:29] - component  : 9
+[10:12:29] - injectable : 1
+[10:12:29] - class      : 3
+[10:12:29] - interface  : 3
+[10:12:29] -------------------
+[10:12:29] Prepare components
+[10:12:29]  ButtonComponent has styleUrls, include them
+[10:12:29]  HeaderComponent has styleUrls, include them
+[10:12:29]  PageComponent has styleUrls, include them
+[10:12:29] Prepare modules
+[10:12:29] Prepare injectables
+[10:12:29] Prepare classes
+[10:12:29] Prepare interfaces
+[10:12:29] Prepare miscellaneous
+[10:12:29] Process documentation coverage report
+[10:12:29] Generating documentation in export format json
+[10:12:29] Documentation generated in ./ in 0.911 seconds
 info @storybook/angular v6.5.7
 info 
-info => Cleaning outputDir: C:\Users\quint\AppData\Local\Temp\chromatic--7496-vRU9NtCbrIpA
+info => Cleaning outputDir: C:\Users\quint\AppData\Local\Temp\chromatic--13200-RSsuyEl03fkU
 info => Loading presets
 info => Compiling manager..
 info => Compiling preview..
@@ -484,54 +561,47 @@ info => Using default Webpack5 setup
 <s> [webpack.Progress] 10% building 0/18 entries 15/28 dependencies 0/15 modules
 <s> [webpack.Progress] 10% building import loader ./node_modules/@ngtools/webpack/src/ivy/index.js
 <s> [webpack.Progress] 10% building 0/18 entries 15/28 dependencies 0/15 modules
-<s> [webpack.Progress] 10% building 0/18 entries 20/28 dependencies 0/19 modules
+<s> [webpack.Progress] 10% building 0/18 entries 18/28 dependencies 0/17 modules
 <s> [webpack.Progress] 10% building 0/18 entries 62/100 dependencies 0/35 modules
-<s> [webpack.Progress] 10% building 0/18 entries 153/218 dependencies 8/72 modules
-<s> [webpack.Progress] 13% building 1/18 entries 153/218 dependencies 9/72 modules
+<s> [webpack.Progress] 13% building 1/18 entries 154/218 dependencies 9/73 modules
+<s> [webpack.Progress] 13% building 1/18 entries 203/236 dependencies 10/113 modules
 <s> [webpack.Progress] 13% building import loader ./node_modules/@storybook/source-loader/dist/cjs/index.js
-<s> [webpack.Progress] 13% building 1/18 entries 202/230 dependencies 9/111 modules
-<s> [webpack.Progress] 13% building 1/18 entries 361/399 dependencies 33/157 modules
-<s> [webpack.Progress] 16% building 2/18 entries 457/581 dependencies 52/167 modules
-<s> [webpack.Progress] 16% building 2/18 entries 525/586 dependencies 59/200 modules
-<s> [webpack.Progress] 19% building 3/18 entries 654/714 dependencies 75/239 modules
-<s> [webpack.Progress] 19% building 3/18 entries 967/1014 dependencies 91/300 modules
-<s> [webpack.Progress] 19% building 3/18 entries 1200/1329 dependencies 136/359 modules
-<s> [webpack.Progress] 19% building 3/18 entries 1300/1334 dependencies 147/389 modules
-<s> [webpack.Progress] 19% building 3/18 entries 1348/1900 dependencies 159/409 modules
-<s> [webpack.Progress] 19% building 3/18 entries 1355/2000 dependencies 160/416 modules
-<s> [webpack.Progress] 22% building 4/18 entries 1595/2190 dependencies 195/511 modules
-<s> [webpack.Progress] 22% building 4/18 entries 2293/2600 dependencies 269/633 modules
-<s> [webpack.Progress] 22% building 4/18 entries 3033/3100 dependencies 303/871 modules
-<s> [webpack.Progress] 22% building 4/18 entries 3360/3400 dependencies 330/918 modules
-<s> [webpack.Progress] 22% building 4/18 entries 3900/3942 dependencies 378/953 modules
-<s> [webpack.Progress] 22% building 4/18 entries 4200/4237 dependencies 460/980 modules
-<s> [webpack.Progress] 22% building 4/18 entries 4350/4400 dependencies 559/1016 modules
-<s> [webpack.Progress] 22% building 4/18 entries 4785/4800 dependencies 799/1127 modules
-<s> [webpack.Progress] 22% building 4/18 entries 4868/5000 dependencies 856/1133 modules
-<s> [webpack.Progress] 22% building 4/18 entries 4900/5067 dependencies 883/1136 modules
-<s> [webpack.Progress] 22% building 4/18 entries 4983/5200 dependencies 913/1172 modules
-<s> [webpack.Progress] 22% building 4/18 entries 5100/5252 dependencies 918/1199 modules
-<s> [webpack.Progress] 22% building 4/18 entries 5444/5500 dependencies 1026/1311 modules
-<s> [webpack.Progress] 22% building 4/18 entries 5600/5667 dependencies 1055/1349 modules
-<s> [webpack.Progress] 22% building 4/18 entries 5800/6039 dependencies 1136/1431 modules
-<s> [webpack.Progress] 23% building 4/18 entries 6100/6138 dependencies 1188/1580 modules
-<s> [webpack.Progress] 24% building 4/18 entries 6173/6200 dependencies 1317/1606 modules
-<s> [webpack.Progress] 25% building 4/18 entries 6300/6342 dependencies 1409/1620 modules
-<s> [webpack.Progress] 26% building 4/18 entries 6568/6600 dependencies 1461/1663 modules
-<s> [webpack.Progress] 27% building 5/18 entries 6694/6712 dependencies 1574/1683 modules
-<s> [webpack.Progress] 28% building 6/18 entries 6694/6712 dependencies 1575/1683 modules
-<s> [webpack.Progress] 31% building 7/18 entries 6694/6712 dependencies 1576/1683 modules
-<s> [webpack.Progress] 34% building 8/18 entries 6694/6712 dependencies 1577/1683 modules
-<s> [webpack.Progress] 37% building 9/18 entries 6694/6712 dependencies 1578/1683 modules
-<s> [webpack.Progress] 40% building 10/18 entries 6694/6712 dependencies 1579/1683 modules
-<s> [webpack.Progress] 43% building 11/18 entries 6694/6712 dependencies 1580/1683 modules
-<s> [webpack.Progress] 46% building 12/18 entries 6694/6712 dependencies 1581/1683 modules
-<s> [webpack.Progress] 49% building 13/18 entries 6694/6712 dependencies 1582/1683 modules
-<s> [webpack.Progress] 52% building 14/18 entries 6829/6838 dependencies 1638/1717 modules
-<s> [webpack.Progress] 55% building 15/18 entries 6965/6966 dependencies 1719/1759 modules
-<s> [webpack.Progress] 58% building 16/18 entries 6965/6966 dependencies 1735/1759 modules
-<s> [webpack.Progress] 61% building 17/18 entries 6965/6966 dependencies 1735/1759 modules
-<s> [webpack.Progress] 64% building 18/18 entries 6967/6967 dependencies 1760/1760 modules
+<s> [webpack.Progress] 13% building 1/18 entries 275/363 dependencies 28/113 modules
+<s> [webpack.Progress] 16% building 2/18 entries 440/548 dependencies 50/166 modules
+<s> [webpack.Progress] 16% building 2/18 entries 528/603 dependencies 60/200 modules
+<s> [webpack.Progress] 16% building 2/18 entries 600/679 dependencies 70/226 modules
+<s> [webpack.Progress] 19% building 3/18 entries 708/770 dependencies 80/254 modules
+<s> [webpack.Progress] 19% building 3/18 entries 1100/1213 dependencies 120/320 modules
+<s> [webpack.Progress] 22% building 4/18 entries 1352/1777 dependencies 186/384 modules
+<s> [webpack.Progress] 22% building 4/18 entries 1382/1946 dependencies 189/400 modules
+<s> [webpack.Progress] 22% building 4/18 entries 1499/1973 dependencies 191/500 modules
+<s> [webpack.Progress] 22% building 4/18 entries 2149/2400 dependencies 278/623 modules
+<s> [webpack.Progress] 22% building 4/18 entries 2940/3000 dependencies 291/855 modules
+<s> [webpack.Progress] 22% building 4/18 entries 3500/3565 dependencies 424/916 modules
+<s> [webpack.Progress] 22% building 4/18 entries 3700/3738 dependencies 435/957 modules
+<s> [webpack.Progress] 22% building 4/18 entries 4479/4500 dependencies 580/1067 modules
+<s> [webpack.Progress] 22% building 4/18 entries 5089/5194 dependencies 900/1174 modules
+<s> [webpack.Progress] 22% building 4/18 entries 5122/5200 dependencies 938/1179 modules
+<s> [webpack.Progress] 22% building 4/18 entries 5417/5466 dependencies 991/1300 modules
+<s> [webpack.Progress] 22% building 4/18 entries 5542/5600 dependencies 1048/1350 modules
+<s> [webpack.Progress] 22% building 4/18 entries 5717/5754 dependencies 1100/1386 modules
+<s> [webpack.Progress] 22% building 4/18 entries 6100/6115 dependencies 1177/1577 modules
+<s> [webpack.Progress] 23% building 4/18 entries 6200/6242 dependencies 1269/1592 modules
+<s> [webpack.Progress] 25% building 4/18 entries 6367/6400 dependencies 1424/1631 modules
+<s> [webpack.Progress] 27% building 5/18 entries 6712/6732 dependencies 1579/1685 modules
+<s> [webpack.Progress] 28% building 6/18 entries 6712/6732 dependencies 1580/1685 modules
+<s> [webpack.Progress] 31% building 7/18 entries 6712/6732 dependencies 1581/1685 modules
+<s> [webpack.Progress] 34% building 8/18 entries 6712/6732 dependencies 1582/1685 modules
+<s> [webpack.Progress] 37% building 9/18 entries 6712/6732 dependencies 1583/1685 modules
+<s> [webpack.Progress] 40% building 10/18 entries 6712/6732 dependencies 1584/1685 modules
+<s> [webpack.Progress] 43% building 11/18 entries 6712/6732 dependencies 1585/1685 modules
+<s> [webpack.Progress] 46% building 12/18 entries 6712/6732 dependencies 1586/1685 modules
+<s> [webpack.Progress] 49% building 13/18 entries 6712/6732 dependencies 1587/1685 modules
+<s> [webpack.Progress] 52% building 14/18 entries 6779/6795 dependencies 1627/1703 modules
+<s> [webpack.Progress] 55% building 15/18 entries 6954/6959 dependencies 1709/1755 modules
+<s> [webpack.Progress] 58% building 16/18 entries 6954/6959 dependencies 1709/1755 modules
+<s> [webpack.Progress] 61% building 17/18 entries 6966/6967 dependencies 1735/1759 modules
+<s> [webpack.Progress] 64% building 18/18 entries 6968/6968 dependencies 1760/1760 modules
 <s> [webpack.Progress] 65% building
 <s> [webpack.Progress] 69% building finish
 <s> [webpack.Progress] 69% building finish
@@ -632,40 +702,40 @@ info => Using default Webpack5 setup
 <s> [webpack.Progress] 92% sealing asset processing copy-webpack-plugin
 <s> [webpack.Progress] 92% sealing asset processing PersistentChildCompilerSingletonPlugin
 <s> [webpack.Progress] 92% sealing asset processing TerserPlugin
-info => Manager built (55 s)
+info => Manager built (40 s)
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.css generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.css generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.8319b288.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.8319b288.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.16318820.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.16318820.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 747.4d7f0ac8.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 747.4d7f0ac8.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 366.45deec63.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 366.45deec63.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 565.97c23ebe.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 565.97c23ebe.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 239.358924bb.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 239.358924bb.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 471.4e41598f.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 471.4e41598f.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.5c586c64.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.5c586c64.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.a7b748d4.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.a7b748d4.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 747.3531f0db.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 747.3531f0db.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 366.defbfe16.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 366.defbfe16.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 565.2a123650.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 565.2a123650.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 239.7ae539da.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 239.7ae539da.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 471.7c481dc1.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 471.7c481dc1.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 345.793cee98.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 345.793cee98.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 39.920b7308.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 39.920b7308.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 996.b03aef82.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 996.b03aef82.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 39.d2bd9dab.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 39.d2bd9dab.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 996.3bf41917.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 996.3bf41917.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 225.ff116299.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 225.ff116299.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 291.03611412.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 291.03611412.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 877.d1fa557e.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 877.d1fa557e.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 291.3dac92c5.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 291.3dac92c5.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 877.ec8140da.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 877.ec8140da.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 877.d1fa557e.iframe.bundle.js attach SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 877.d1fa557e.iframe.bundle.js attached SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 877.ec8140da.iframe.bundle.js attach SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 877.ec8140da.iframe.bundle.js attached SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
@@ -676,8 +746,8 @@ info => Manager built (55 s)
 <s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
-<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.5ab6b79e.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.5ab6b79e.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.3ca43d33.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.3ca43d33.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.33b1934a.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.33b1934a.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 747.2e592bfe.iframe.bundle.js generate SourceMap
@@ -726,7 +796,7 @@ info => Manager built (55 s)
 <s> [webpack.Progress] 99% cache begin idle
 <s> [webpack.Progress] 100% 
 
-info => Preview built (1.12 min)
+info => Preview built (52 s)
 WARN C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/app.component.ts is part of the TypeScript compilation but it's unused.
 WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
 WARN C:/Users/quint/OneDrive/Escritorio/Storybook/taskbox/src/app/app.module.ts is part of the TypeScript compilation but it's unused.
@@ -768,10 +838,10 @@ WARN   main (3.28 MiB)
 WARN       runtime~main.33b1934a.iframe.bundle.js
 WARN       877.6f42dc96.iframe.bundle.js
 WARN       main.css
-WARN       main.5ab6b79e.iframe.bundle.js
+WARN       main.3ca43d33.iframe.bundle.js
 WARN 
 <s> [webpack.Progress] 99% cache shutdown
 <s> [webpack.Progress] 99% cache shutdown
 <s> [webpack.Progress] 100% 
 
-info => Output directory: C:\Users\quint\AppData\Local\Temp\chromatic--7496-vRU9NtCbrIpA
+info => Output directory: C:\Users\quint\AppData\Local\Temp\chromatic--13200-RSsuyEl03fkU

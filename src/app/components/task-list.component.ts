@@ -1,4 +1,3 @@
-
 import { Component } from '@angular/core';
 import { Store } from '@ngxs/store';
 import { ArchiveTask, PinTask } from '../state/task.state';

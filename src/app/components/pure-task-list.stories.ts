@@ -1,11 +1,7 @@
-
 import { componentWrapperDecorator, moduleMetadata, Meta, Story } from '@storybook/angular';
-
 import { CommonModule } from '@angular/common';
-
 import { PureTaskListComponent } from './pure-task-list.component';
 import { TaskComponent } from './task.component';
-
 import * as TaskStories from './task.stories';
 
 export default {
